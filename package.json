@@ -4,9 +4,9 @@
   "description": "",
   "main": "math.js",
   "scripts": {
-    "test": "mocha ./unit/*.js"
+    "test": "mocha ./unit/*.js",
   },
-  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "author": "Aditia Darmadi",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.2",
